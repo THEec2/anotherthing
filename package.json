@@ -28,7 +28,7 @@
     "discord.js-commando"
   ],
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=12.x"
   },
   "dependencies": {
     "better-sqlite3": "^4.1.4",
