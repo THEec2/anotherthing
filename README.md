@@ -30,7 +30,7 @@
 
 ***
 
-# DISCONTINUED!! THIS PROJECT HAS BEEN DISCONTINUED FOR FURTHER UPDATES DUE TO DISCORD DOUBLING DOWN ON SELFBOTS (THAT DO VIOLATE TOS AFTER ALL) AND DISCORDJS REMOVING SELFBOT SUPPORT FROM THEIR LIBRARY (RIGHTFULLY SO). LATEST COMMIT SHOULD REMAIN STABLE!!
+# WARNING! Selfbots are against Discord rules. DO NOT USE THIS!
 
 
 ## This bot can be deployed with 1 click on Heroku. Click this button:
@@ -78,27 +78,5 @@ Couple of important notes when using Heroku:
 ## Special Thanks
 
 - Hydrabolt for the DiscordJS library
-
 - Gawdl3y for the DiscordJS-Commando framework
-
-- York, the creator of [AnIdiotsGuide](https://anidiots.guide/) for getting me started
-
-- Everyone on [the DiscordJS server](https://discord.gg/bRCvFy9) for answering various questions
-
-- Various people on Discord who gave me ideas for new functions or improvements to existing ones
-
 - All the creators of the node packages used in this bot
-
-## Buy me a donut
-
-This bot is open source and always will be, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. Thanks in advance!
-
-I accept donations through PayPal, BitCoin, Ethereum and LiteCoin. You can use the buttons below to donate through your method of choice
-
-
-|Donate With|QR|Address|
-|:---:|:---:|:---:|
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XMAYCF9SDHZ34"><img src="https://favna.xyz/images/ribbonhost/paypaldonate.png"></a>|<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XMAYCF9SDHZ34"><img src="https://favna.xyz/images/ribbonhost/paypalqr.png" width="128"></a>|[Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XMAYCF9SDHZ34)|
-<img src="https://favna.xyz/images/ribbonhost/bitcoindonate.png">|<img src="https://favna.xyz/images/ribbonhost/bitcoinqr.png" width="128">|<a href="bitcoin:1E643TNif2MTh75rugepmXuq35Tck4TnE5?amount=0.01&label=Favna%27%20Ribbon%20Discord%20Bot">1E643TNif2MTh75rugepmXuq35Tck4TnE5</a>|
-<img src="https://favna.xyz/images/ribbonhost/ethereumdonate.png">|<img src="https://favna.xyz/images/ribbonhost/ethereumqr.png" width="128">|<a href="ethereum:0xF653F666903cd8739030D2721bF01095896F5D6E?amount=0.01&label=Favna%27%20Ribbon%20Discord%20Bot">0xF653F666903cd8739030D2721bF01095896F5D6E</a>|
-<img src="https://favna.xyz/images/ribbonhost/litecoindonate.png">|<img src="https://favna.xyz/images/ribbonhost/litecoinqr.png" width="128">|<a href="litecoin:LZHvBkaJqKJRa8N7Dyu41Jd1PDBAofCik6?amount=0.01&label=Favna%27%20Ribbon%20Discord%20Bot">LZHvBkaJqKJRa8N7Dyu41Jd1PDBAofCik6</a>|
