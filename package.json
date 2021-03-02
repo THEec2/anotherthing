@@ -1,14 +1,14 @@
 {
-  "name": "discord-self-bot",
+  "name": "redsox24-bot",
   "version": "11.0.0",
-  "description": "Favna#0001's Discord-Self-Bot for anyone to grant extreme power to their Discord usage",
-  "author": "Favna",
+  "description": "A dumb project, don't copy this.",
+  "author": "Elevator",
   "license": "GPL-3.0",
   "main": "src/app.js",
-  "homepage": "https://favna.xyz/selfbot",
+  "homepage": "https://youtube.com/Elevatorchannel2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Favna/discord-self-bot"
+    "url": "git+https://github.com/THEec2/anotherthing"
   },
   "scripts": {
     "docs": "./node_modules/.bin/jsdoc2md --template ./docs/template.hbs --files ./src/commands/**/*.js | tee docs/index.md ../selfbot.wiki/All-Commands.md > NUL",
@@ -21,11 +21,7 @@
     "test:minimal": "./node_modules/.bin/mocha"
   },
   "keywords": [
-    "discord",
-    "bot",
-    "selfbot",
-    "discord.js",
-    "discord.js-commando"
+    "discord"
   ],
   "engines": {
     "node": "8.x"
